@@ -1,6 +1,6 @@
 ### Hey 👋 I'm Nikhil
 
-🚀 **AI Agents & LLMs** | 🤖 Builder | ☕ Always Shipping
+🤖 Builder | ☕ Always Shipping
 
 ---
 
